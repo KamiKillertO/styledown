@@ -18,7 +18,7 @@
   },
   "dependencies": {
     "cheerio": "^0.22.0",
-    "highlight.js": "^10.7.2",
+    "highlight.js": "^11.1.0",
     "js-beautify": "^1.13.13",
     "marked": "^2.0.7",
     "mdextract": "^1.0.0",
